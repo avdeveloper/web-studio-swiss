@@ -1,4 +1,8 @@
 # Design a Swiss movie poster and code it in HTML/CSS
-One of the projects given in Web Studio 2 course at NYU-Poly
+(c)2011 Albert Villaroman <avdeveloper@gmail.com>
 
-PS: I know it's weird that we would have to code a movie poster in HTML/CSS...
+The project was to design a movie poster using Swiss design principles and code it in HTML and CSS. Take note that the disk is cutoff intentionally. So on print it would look like the Disc is not complete.
+
+## Topics/Technologies covered
+* Swiss history and design principles
+* Grid design pattern
